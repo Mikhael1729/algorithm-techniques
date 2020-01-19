@@ -7,13 +7,13 @@ namespace DynamicProgramming
     public Equal()
     { }
 
-    public static int SolveIt(List<int> list)
-    {
-      for(int i = 0; i < list.Count; i++)
-      {
-        list[]
-      }
-    } 
+    // public static int SolveIt(List<int> list)
+    // {
+    //   for(int i = 0; i < list.Count; i++)
+    //   {
+    //     list[]
+    //   }
+    // } 
     
     /*
         **Problema**:
